@@ -4,6 +4,8 @@ In this exercise you will create a basic website using all of the most common ta
 
 * Your website must **at least** have the following
 
+  [ ] Make sure your site has two `<p>` tags
+
   [ ] One `h1`
 
   [ ] Two Sub-Headings (`h2` or smaller)
